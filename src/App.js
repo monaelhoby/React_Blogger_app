@@ -28,7 +28,7 @@ function App() {
 
   return (
     <Provider store={Store}>
-      <Router>
+      <Router basename={window.location.pathname || ''}>
         <Switch>
           <Route path='/' exact component={allArticles} />
           <Route path='/detail/:id' component={articleDetail} />
