@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React_Blogger_app/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/React_Blogger_app/static/js/main.0d3fdc63.chunk.js",
-    "main.js.map": "/React_Blogger_app/static/js/main.0d3fdc63.chunk.js.map",
+    "main.js": "/React_Blogger_app/static/js/main.e5b9778b.chunk.js",
+    "main.js.map": "/React_Blogger_app/static/js/main.e5b9778b.chunk.js.map",
     "runtime-main.js": "/React_Blogger_app/static/js/runtime-main.328c7af3.js",
     "runtime-main.js.map": "/React_Blogger_app/static/js/runtime-main.328c7af3.js.map",
     "static/js/2.cd648cda.chunk.js": "/React_Blogger_app/static/js/2.cd648cda.chunk.js",
     "static/js/2.cd648cda.chunk.js.map": "/React_Blogger_app/static/js/2.cd648cda.chunk.js.map",
     "index.html": "/React_Blogger_app/index.html",
-    "precache-manifest.09e20fdec4cedc68dec61f77f794f965.js": "/React_Blogger_app/precache-manifest.09e20fdec4cedc68dec61f77f794f965.js",
+    "precache-manifest.0bc96000cb300b5a501e325d38b9840f.js": "/React_Blogger_app/precache-manifest.0bc96000cb300b5a501e325d38b9840f.js",
     "service-worker.js": "/React_Blogger_app/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/React_Blogger_app/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.cd648cda.chunk.js.LICENSE.txt": "/React_Blogger_app/static/js/2.cd648cda.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.328c7af3.js",
     "static/js/2.cd648cda.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.0d3fdc63.chunk.js"
+    "static/js/main.e5b9778b.chunk.js"
   ]
 }
