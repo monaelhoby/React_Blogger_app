@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React_Blogger_app/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React_Blogger_app/static/js/main.0d3fdc63.chunk.js",
+    "main.js.map": "/React_Blogger_app/static/js/main.0d3fdc63.chunk.js.map",
+    "runtime-main.js": "/React_Blogger_app/static/js/runtime-main.328c7af3.js",
+    "runtime-main.js.map": "/React_Blogger_app/static/js/runtime-main.328c7af3.js.map",
+    "static/js/2.cd648cda.chunk.js": "/React_Blogger_app/static/js/2.cd648cda.chunk.js",
+    "static/js/2.cd648cda.chunk.js.map": "/React_Blogger_app/static/js/2.cd648cda.chunk.js.map",
+    "index.html": "/React_Blogger_app/index.html",
+    "precache-manifest.09e20fdec4cedc68dec61f77f794f965.js": "/React_Blogger_app/precache-manifest.09e20fdec4cedc68dec61f77f794f965.js",
+    "service-worker.js": "/React_Blogger_app/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React_Blogger_app/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.cd648cda.chunk.js.LICENSE.txt": "/React_Blogger_app/static/js/2.cd648cda.chunk.js.LICENSE.txt",
+    "static/media/bkg.jpg": "/React_Blogger_app/static/media/bkg.4bf24c61.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.328c7af3.js",
+    "static/js/2.cd648cda.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.0d3fdc63.chunk.js"
+  ]
+}
